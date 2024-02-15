@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PalindromeHexagram/static/css/main.f3c9031b.css",
-    "main.js": "/PalindromeHexagram/static/js/main.05390bcc.js",
+    "main.js": "/PalindromeHexagram/static/js/main.5cf3747b.js",
     "static/js/592.06b9d2b2.chunk.js": "/PalindromeHexagram/static/js/592.06b9d2b2.chunk.js",
     "index.html": "/PalindromeHexagram/index.html",
     "static/media/logo.svg": "/PalindromeHexagram/static/media/logo.eceaf75db50a83da83812d7468f52b4a.svg",
     "main.f3c9031b.css.map": "/PalindromeHexagram/static/css/main.f3c9031b.css.map",
-    "main.05390bcc.js.map": "/PalindromeHexagram/static/js/main.05390bcc.js.map",
+    "main.5cf3747b.js.map": "/PalindromeHexagram/static/js/main.5cf3747b.js.map",
     "592.06b9d2b2.chunk.js.map": "/PalindromeHexagram/static/js/592.06b9d2b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c9031b.css",
-    "static/js/main.05390bcc.js"
+    "static/js/main.5cf3747b.js"
   ]
 }
