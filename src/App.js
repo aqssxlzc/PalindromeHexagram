@@ -167,6 +167,9 @@ function App() {
     setTokens([...tokens, a.target.innerText]);
   };
   useEffect(() => {
+    document.title = '六十四卦头尾串起名器';
+  }, []);
+  useEffect(() => {
     if (tokens.length === 0) {
       setShowGuas(guaMap);
     }
